@@ -20,7 +20,7 @@ public class ahmed {
     for( int l = 1; l<=5; l++){
         System.out.print("*");
     }
-    if (l=1 || l==5);{
+    if (l=5 || l==5);{
     System.out.println();
 
 }
